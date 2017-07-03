@@ -15,7 +15,7 @@ The anthor is *@QxZaizai*!
 ## Language
 The comments in the code are *Simplified Chinese* because anthor is Chinese :)
 
-Maybe some inaccuracies in English translation.
+Maybe some inaccuracies in English translation (You can ignore them)
 
 ## How to build
 ***Visual Studio 2017***
