@@ -1,5 +1,5 @@
 # QxConsole
-This is a console application that support commands and plugins.
+This is a console application that supports commands and plugins.
 
 Have fun with it!
 
