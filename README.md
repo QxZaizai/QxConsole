@@ -1,21 +1,23 @@
 # QxConsole
-This is console application that support commands and plugins.
+This is a console application that support commands and plugins.
 
 Have fun with it!
 
 ## Know more about QxConsole
-It's an interesting console application and it support commands and plugins.
+It's an interesting console application and it supports commands and plugins.
 
 You can use plugins to expand it!
 
-Written in C# programming language.
+It was written in C# programming language.
 
-The anthor is *@QxZaizai*!
+The author is *@QxZaizai*!
 
 ## Language
-The comments in the code are *Simplified Chinese* because anthor is Chinese :)
+The comments in the code are *Simplified Chinese* because author is Chinese :)
 
 Maybe some inaccuracies in English translation (You can ignore them)
+
+My English is not very good so there probably have some grammer issue.
 
 ## How to build
 ***Visual Studio 2017***
