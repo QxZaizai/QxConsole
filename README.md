@@ -10,7 +10,12 @@ You can use plugins to expand it!
 
 Written in C# programming language.
 
-The anthor is ***@QxZaizai***!
+The anthor is *@QxZaizai*!
+
+## Language
+The comments in the code are *Simplified Chinese* because anthor is Chinese :)
+
+Maybe some inaccuracies in English translation.
 
 ## How to build
 ***Visual Studio 2017***
